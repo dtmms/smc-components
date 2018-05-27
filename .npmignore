@@ -1,0 +1,13 @@
+build/
+config/
+hooks/
+public/
+node_modules/
+src/
+.stories/
+.storybook/
+.storybook-build/
+**/.DS_Store
+.env
+.npmrc
+*.log
